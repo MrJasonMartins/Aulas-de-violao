@@ -31,7 +31,7 @@ body::before {
 
 /* Header */
 header {
-    height: 70px; /* Define a altura fixa do cabeçalho */
+    height: 100px; /* Define a altura fixa do cabeçalho */
     line-height: 70px;
     background: linear-gradient(to right, #555, #333);
     color: #fff;
