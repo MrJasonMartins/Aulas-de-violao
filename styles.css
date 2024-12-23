@@ -35,7 +35,7 @@ body::before {
     z-index: 1000; /* Garante que esteja acima do conteúdo */
     background-image: url('IMG_0922.jpg'); /* Caminho da imagem */
     background: linear-gradient(to right, #444, #333); /* Degradê */
-    padding: 10px 20px;
+    padding: 10px 0px;
     display: flex;
     flex-direction: column; /* Permite empilhar título e links */
     align-items: center;
