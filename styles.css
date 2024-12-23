@@ -31,7 +31,7 @@ body::before {
 
 /* Header */
 header {
-    height: 100px; /* Define a altura fixa do cabeçalho */
+    height: 80px; /* Define a altura fixa do cabeçalho */
     line-height: 70px;
     background: linear-gradient(to right, #555, #333);
     color: #fff;
@@ -50,7 +50,7 @@ header h1 {
 nav ul {
     display: flex;
     justify-content: center;
-    margin-top: 0.5rem;
+    margin-top: 0.1rem;
 }
 
 nav ul li {
