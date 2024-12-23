@@ -33,6 +33,7 @@ body::before {
     position: sticky; /* Torna o cabeçalho fixo ao rolar */
     top: 0; /* Fixa no topo */
     z-index: 1000; /* Garante que esteja acima do conteúdo */
+    background-image: url('IMG_0922.jpg'); /* Caminho da imagem */
     background: linear-gradient(to right, #444, #333); /* Degradê */
     padding: 10px 20px;
     display: flex;
