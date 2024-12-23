@@ -34,7 +34,7 @@ header {
     line-height: 70px;
     background: linear-gradient(to right, #555, #333);
     color: #fff;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     position: fixed;
     top: 0;
     width: 100%;
