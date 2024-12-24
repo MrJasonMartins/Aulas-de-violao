@@ -125,7 +125,7 @@ body::before {
 }
 
 .contact-buttonw {
-    display: flex;
+    display: inline-block;
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
