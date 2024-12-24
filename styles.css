@@ -156,7 +156,7 @@ body::before {
     display: flex;
     align-items: left;
     width: 65%;
-    gap: 15px;
+    gap: 10px;
     
 }
 
