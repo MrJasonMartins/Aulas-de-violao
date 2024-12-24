@@ -110,11 +110,12 @@ body::before {
 }
 
 .contact-button {
-    display: flex; /* Faz o link se comportar como botão */
+    display: flex;
     justify-content: center; /* Centraliza horizontalmente */
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
+    height:100vh;
     padding: 10px 20px; /* Espaçamento interno */
     border-radius: 5px; /* Bordas arredondadas */
     font-size: 16px; /* Tamanho da fonte */
