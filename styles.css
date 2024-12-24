@@ -115,7 +115,6 @@ body::before {
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
-    width:100vh;
     padding: 10px 20px; /* Espaçamento interno */
     border-radius: 5px; /* Bordas arredondadas */
     font-size: 16px; /* Tamanho da fonte */
@@ -128,7 +127,6 @@ body::before {
     display: flex;
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
-    width:30vh;
     text-decoration: none; /* Remove o sublinhado */
     padding: 10px 20px; /* Espaçamento interno */
     border-radius: 5px; /* Bordas arredondadas */
@@ -142,7 +140,6 @@ body::before {
     display: flex;
     background-color: #3C73A8; /* Cor azul */
     color: #fff; /* Cor do texto branco */
-    width:30vh;
     text-decoration: none; /* Remove o sublinhado */
     padding: 10px 20px; /* Espaçamento interno */
     border-radius: 5px; /* Bordas arredondadas */
