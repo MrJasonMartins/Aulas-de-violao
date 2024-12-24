@@ -110,7 +110,7 @@ body::before {
 }
 
 .contact-button {
-    display: flex;
+    display: inline-block;
     justify-content: center; /* Centraliza horizontalmente */
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
