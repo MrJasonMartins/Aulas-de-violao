@@ -111,6 +111,21 @@ body::before {
 
 .contact-button {
     display: inline-block; /* Faz o link se comportar como botão */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente (se necessário) */
+    background-color: #28a745; /* Cor verde */
+    color: #fff; /* Cor do texto branco */
+    text-decoration: none; /* Remove o sublinhado */
+    padding: 10px 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    font-size: 16px; /* Tamanho da fonte */
+    font-weight: bold; /* Texto em negrito */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para destacar o botão */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Transições suaves */
+}
+
+.contact-buttonw {
+    display: inline-block; /* Faz o link se comportar como botão */
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
