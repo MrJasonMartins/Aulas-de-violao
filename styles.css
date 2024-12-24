@@ -125,7 +125,7 @@ body::before {
 }
 
 .contact-buttonw {
-    display: inline-block; /* Faz o link se comportar como botão */
+    display: flex;
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
@@ -138,7 +138,7 @@ body::before {
 }
 
 .contact-button2 {
-    display: inline-block; /* Faz o link se comportar como botão */
+    display: flex;
     background-color: #3C73A8; /* Cor azul */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
