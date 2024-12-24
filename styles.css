@@ -111,7 +111,7 @@ body::before {
 
 .contact-button {
     width:100%;
-    display: inline-block;
+    display: flex;
     justify-content: center; /* Centraliza horizontalmente */
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
@@ -125,6 +125,7 @@ body::before {
 }
 
 .contact-buttonw {
+    display:flex;
     background-color: #28a745; /* Cor verde */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
@@ -137,6 +138,7 @@ body::before {
 }
 
 .contact-button2 {
+    display: flex;
     background-color: #3C73A8; /* Cor azul */
     color: #fff; /* Cor do texto branco */
     text-decoration: none; /* Remove o sublinhado */
